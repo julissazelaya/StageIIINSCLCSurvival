@@ -2,7 +2,6 @@
 title: "Stage III NSCLC Survival Prediction"
 author: "Julissa Zelaya Portillo"
 date: "Fall 2023"
-subtitle: "DA5030"
 output:
   pdf_document: default
   html_document:
